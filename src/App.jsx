@@ -12,7 +12,6 @@ function App() {
       params: {
         query: term,
         per_page: 100,
-        page: 1-4,
       }
     });
   };
